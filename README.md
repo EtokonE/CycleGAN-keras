@@ -19,7 +19,7 @@
 
 
 ### Telegram Bot
-* We deploed telegram bot. You can send him a photo of the landscape and get a Monet interpretation.  
+We deploed 2 telegram bot. You can send him a photo. It runs through the model. And in response from the bot, you receive a processed photo.
 
 <img src="images/Выделение_155.png" height="500px" width="250px"> <img src="images/Выделение_156.png" height="500px" width="250px"> <img src="images/Выделение_157.png" height="500px" width="250px">
 
