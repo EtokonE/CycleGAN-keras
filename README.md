@@ -1,4 +1,3 @@
-<br><br><br>
 
 # CycleGAN
 
@@ -19,7 +18,7 @@
 
 
 ## Data preparing
- * Dounload a dataset, e.g portrait2photo
+ * Download a dataset, e.g portrait2photo
  ```bash
  $ ./bin/datasets.sh portrait2photo
  ```
