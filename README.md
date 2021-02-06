@@ -23,6 +23,12 @@ We deploed 2 telegram bot. You can send him a photo. It runs through the model. 
 
 <img src="images/Выделение_155.png" height="500px" width="250px"> <img src="images/Выделение_156.png" height="500px" width="250px"> <img src="images/Выделение_157.png" height="500px" width="250px">
 
+## Requirement
+```bash
+$ pip install -r requirements.txt
+```
+
+
 ## Data preparing
  * Download a dataset, e.g portrait2photo
  ```bash
