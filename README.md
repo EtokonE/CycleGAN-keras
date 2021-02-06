@@ -6,7 +6,10 @@ An implementation of CycleGan for learning an image-to-image translation without
 
 Original paper: https://arxiv.org/abs/1703.10593
 
-You can check models architecture here: [Generator](images/generator_model_plot.png), [Discriminator](images/discriminator_model_plot.png)
+You can check architecture of our models here: [Generator](images/generator_model_plot.png), [Discriminator](images/discriminator_model_plot.png)
+
+<img src="images/model.jpg">
+
 # Results
 
 ### - Monet -> Photo <br>
