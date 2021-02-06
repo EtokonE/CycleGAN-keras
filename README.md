@@ -11,14 +11,14 @@
 
 # Results
 
-### Monet -> Photo <br>
+### 1. Monet -> Photo <br>
 <img src="images/monet2photo/227_0.png" width="300px"/> <img src="images/monet2photo/254_0.png" width="300px"/> <img src="images/monet2photo/269_0.png" width="300px"/> <img src="images/monet2photo/280_0.png" width="300px"/> <img src="images/monet2photo/288_0.png" width="300px"/> <img src="images/monet2photo/292_0.png" width="300px"/> <img src="images/monet2photo/294_0.png" width="300px"/> <img src="images/monet2photo/296_0.png" width="300px"/> <img src="images/monet2photo/297_0.png" width="300px"/>
 
-### Photo -> Portrait <br>
+### 2. Photo -> Portrait <br>
 
 
 
-### Telegram Bot
+### 3. Telegram Bot <br>
 We deploed 2 telegram bot. You can send him a photo. It runs through the model. And in response from the bot, you receive a processed photo.
 
 <img src="images/Выделение_155.png" height="500px" width="250px"> <img src="images/Выделение_156.png" height="500px" width="250px"> <img src="images/Выделение_157.png" height="500px" width="250px">
