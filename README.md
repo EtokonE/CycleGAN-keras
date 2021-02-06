@@ -48,3 +48,10 @@ Optoinal arguments:
  --increase_generator_iteration    default: False,         increase the number of generator iterations in train loop
  --generator_iterations            default: 3,             number of generator iterations in train loop
 ```
+
+## Pretrained model
+
+* You can download pretrained generator use:
+```bash
+./bin/load_model.sh
+```
