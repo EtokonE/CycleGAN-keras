@@ -21,7 +21,7 @@
 ### Telegram Bot
 * We deploed telegram bot. You can send him a photo of the landscape and get a Monet interpretation.  
 
-<img src="images/Выделение_152.png" height="500px" width="300px"/> <img src="images/Выделение_153.png" height="500px" width="300px"/> <img src="images/Выделение_154.png" height="500px" width="300px"/>
+<img src="images/Выделение_155.png" height="500px" width="280px"/> <img src="images/Выделение_156.png" height="500px" width="280px"/> <img src="images/Выделение_157.png" height="500px" width="280px"/>
 
 ## Data preparing
  * Download a dataset, e.g portrait2photo
