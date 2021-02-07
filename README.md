@@ -5,7 +5,7 @@
 
 * Original paper: https://arxiv.org/abs/1703.10593
 
-* You can check architecture of our models here: [Generator](images/plot_model_generator.png), [Discriminator](images/discriminator_model_plot.png)
+* You can check the architecture of our models here: [Generator](images/plot_model_generator.png), [Discriminator](images/discriminator_model_plot.png)
 
 <img src="images/model.jpg">
 
@@ -19,7 +19,7 @@
 +++++++++++++++++++++++++++++#TODO
 
 ### 3. Telegram Bot <br>
-We deploed 2 telegram bots. You can send him a photo. It runs through the model. And in response from the bot, you receive a processed photo.
+We deployed 2 telegram bots. You can send it a photo. It runs through the model, and in response, you will receive a processed photo.
 
 You can find it +++++++++++++#TODO
 
@@ -67,7 +67,7 @@ Optoinal arguments:
 
 ## Pretrained model
 
-* You can download pretrained generator use:
+* You can download pre-trained generator use:
 ```bash
 ./bin/load_model.sh
 ```
