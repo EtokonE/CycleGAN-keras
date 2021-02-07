@@ -13,8 +13,8 @@ else
 	exit 1
 fi
 
-ZIP_FILE=../cyclegan_datasets/$FILE.zip
-TARGET_DIR=../cyclegan_datasets/$FILE/
+ZIP_FILE=./cyclegan_datasets/$FILE.zip
+TARGET_DIR=./cyclegan_datasets/$FILE/
 curl -L $URL -o $ZIP_FILE
 mkdir $TARGET_DIR
 unzip $ZIP_FILE -d $TARGET_DIR
