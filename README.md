@@ -5,7 +5,7 @@
 
 * Original paper: https://arxiv.org/abs/1703.10593
 
-* You can check architecture of our models here: [Generator](images/generator_model_plot.png), [Discriminator](images/discriminator_model_plot.png)
+* You can check architecture of our models here: [Generator](images/plot_model_generator.png), [Discriminator](images/discriminator_model_plot.png)
 
 <img src="images/model.jpg">
 
