@@ -21,12 +21,14 @@
 ### 3. Telegram Bot <br>
 We deployed 2 telegram bots. You can send it a photo. It runs through the model, and in response, you will receive a processed photo.
 
-You can find it +++++++++++++#TODO
+You can find it here: [Monet2Photo](https://teleg.run/maximushka_testbot), [Photo2Portrait](https://teleg.run/PortraitDL_bot)
 
 
 <img src="images/Выделение_155.png" height="500px" width="250px"> <img src="images/Выделение_156.png" height="500px" width="250px"> <img src="images/Выделение_157.png" height="500px" width="250px">
 
-++++++++++++++++++++++++++++++#TODO
+
+
+<img src="images/Выделение_179.png" height="500px" width="250px"> <img src="images/Выделение_180.png" height="500px" width="250px">
 ## Requirement
 ```bash
 $ pip install -r requirements.txt
